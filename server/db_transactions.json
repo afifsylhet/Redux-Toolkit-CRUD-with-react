@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "name": "Salaray of June",
+      "type": "income",
+      "amount": 600000,
+      "id": 1
+    },
+    {
+      "name": "Side Project ",
+      "type": "income",
+      "amount": 150000,
+      "id": 2
+    },
+    {
+      "name": "IPS Buying",
+      "type": "expense",
+      "amount": "65000",
+      "id": 3
+    },
+    {
+      "name": "Laptop Buying ",
+      "type": "expense",
+      "amount": "60000",
+      "id": 4
+    }
+  ]
+}
